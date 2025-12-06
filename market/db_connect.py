@@ -2,7 +2,7 @@ import pymysql
 
 def get_connection():
     return pymysql.connect(
-        host="localhost",
+        host="market-db",
         user="root",
         password="root123",
         database="marketdb",
