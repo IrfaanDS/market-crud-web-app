@@ -1,0 +1,9 @@
+Flask
+Flask-Login
+Flask-WTF
+WTForms
+Flask-Bcrypt
+email-validator
+PyMySQL
+bcrypt
+cryptography>=42.0.0
